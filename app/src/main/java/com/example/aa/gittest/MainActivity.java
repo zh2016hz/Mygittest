@@ -11,8 +11,12 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
        android.util.Log.e("第一次修改!!!!!!!", "onCreate: " );
+
        android.util.Log.e("第2次修改!!!!!!!", "onCreate: " );
        android.util.Log.e("第2次修改!!!!!!!", "onCreate: " );
-//ss
+
+       android.util.Log.e("第一次修改!!!!!!!", "onCreate: " );
+       android.util.Log.e("第一次修改!!!!!!!", "onCreate: " );
+       android.util.Log.e("第一次修改!!!!!!!", "onCreate: " );
     }
 }
