@@ -10,6 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-//        android.util.Log.e("第一次修改!!!!!!!", "onCreate: " );
+       android.util.Log.e("第一次修改!!!!!!!", "onCreate: " );
     }
 }
