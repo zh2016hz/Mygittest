@@ -1,9 +1,5 @@
 package com.example.aa.gittest;
 
-import android.util.Log;
-
-import static android.content.ContentValues.TAG;
-
 /**
  * 文件描述：
  * Created by  xn069392
@@ -23,7 +19,6 @@ public class SixMonthTest {
         int content =0;
         for (int i = 0; i < 100; i++) {
             content++;
-            Log.e(TAG, "addCount: " );
         }
     }
 }
