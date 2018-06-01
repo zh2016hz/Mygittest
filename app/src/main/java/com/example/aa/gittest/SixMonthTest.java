@@ -15,5 +15,10 @@ public class SixMonthTest {
         }
         return sb.toString();
     }
-
+    public   void  addCount(){
+        int content =0;
+        for (int i = 0; i < 100; i++) {
+            content++;
+        }
+    }
 }
